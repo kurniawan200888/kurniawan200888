@@ -17,12 +17,12 @@
 
 ## Learning Experience xperience
 
-   -DHCP
-   -DBMS
-   -MYSQL
-   -HTML 
-   -CSS
-   -DLL
+   1.DHCP
+   2.DBMS
+   3.MYSQL
+   4.HTML 
+   5.CSS
+   6.DLL
 ---
 
 
