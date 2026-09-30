@@ -1,58 +1,53 @@
-# Hi there, I'm Rizki- mburr [Rizki Kurniawan](https://www.instagram.com/rikwnn_?stkn=MTduc3oyaGdrZGxoeQ==) 👋
-## About me:
-- 🔭 I'm studying cit tl
-- 🌱 I’m currently learning html and css
-- 👯 I have a cit project right now 
-- 🤔 I'm working on a GitHub CV 
+# Hi there, I'm Rizki Kurniawan 👋
+
+## About me
+
+- 🔭 Studying CIT TL at SMA Gunung Madu
+- 🌱 Currently learning HTML and CSS
+- 👯 Working on a CIT project right now
+- 🤔 Building my GitHub CV
 - 💬 Ask me about anything
-- 📫 How to reach me: rk4371073@gmail.com
-
-## Education:
-
-#### 1. [SMA GUNUNG MADU](SMA GUNUNG MADU https://share.google/UFxNRoPHw9UOyv4E4) | CIT TL| LAMPUNG TENGAH`2024-2027`
-   - STUDENT REPRESENTATIF COUNCIL 
- #### 2. [SMP SATYA DHARMA SUDJANA](SMP SATYA DHARMA SUDJANA https://share.google/8hKWQhUa3EThARdCE) | INFORMATIKA| LAMPUNG TENGAH`2021-2024`
-   
---- 
-
-## Learning Experience 
-
-   1.DHCP
-   2.DBMS
-   3.MYSQL
-   4.HTML 
-   5.CSS
-   6.DLL
----
-
-
-
-<br />
-<br />
+- 📫 How to reach me: [rk4371073@gmail.com](mailto:rk4371073@gmail.com)
 
 ---
-### Connect with me:
 
-<section id="sosmed" aria-labelledby="h-sosmed">
-  <h2 id="h-sosmed">Media sosial</h2>
-  <ul class="sosmed">
-    <li>
-      <a class="ig" href="https://www.instagram.com/rikwnn_" target="_blank" rel="noopener noreferrer">
-        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
-        <span><b>Instagram</b><small>@rikwnn_</small></span>
-      </a>
-    </li>
-    <li>
-      <a class="tt" href="https://www.tiktok.com/@rikwinn" target="_blank" rel="noopener noreferrer">
-        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3v11.5a3.5 3.5 0 1 1-3.5-3.5"/><path d="M14 3c.4 2.6 2.2 4.1 5 4.3"/></svg>
-        <span><b>TikTok</b><small>@rikwinn</small></span>
-      </a>
-    </li>
-    <li>
-      <a class="yt" href="https://www.youtube.com/@RizkiKurniawan-ty7vc" target="_blank" rel="noopener noreferrer">
-        <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor"/></svg>
-        <span><b>YouTube</b><small>Rizki Kurniawan</small></span>
-      </a>
-    </li>
-  </ul>
-</section>
+## Education
+
+**1. [SMA Gunung Madu](https://share.google/UFxNRoPHw9UOyv4E4)**
+CIT TL · Lampung Tengah · `2024 - 2027`
+
+- Student Representative Council
+
+**2. [SMP Satya Dharma Sudjana](https://share.google/8hKWQhUa3EThARdCE)**
+Informatika · Lampung Tengah · `2021 - 2024`
+
+---
+
+## Learning Experience
+
+`DHCP` `DBMS` `MySQL` `HTML` `CSS` and more
+
+---
+
+## Connect with me
+
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-@rikwnn__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+](https://www.instagram.com/rikwnn_)
+[
+
+![TikTok](https://img.shields.io/badge/TikTok-@rikwinn-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+](https://www.tiktok.com/@rikwinn)
+[
+
+![YouTube](https://img.shields.io/badge/YouTube-Rizki%20Kurniawan-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+](https://www.youtube.com/@RizkiKurniawan-ty7vc)
+[
+
+![Email](https://img.shields.io/badge/Email-rk4371073@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:rk4371073@gmail.com)
